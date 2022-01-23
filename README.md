@@ -1,2 +1,2 @@
 # Calculator
-Implementação da calculadora para iOS construída em React.
+Calculator implementation for iOS built in React.
